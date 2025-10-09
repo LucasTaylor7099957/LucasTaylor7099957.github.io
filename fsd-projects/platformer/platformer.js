@@ -28,7 +28,7 @@ $(function () {
 
     // TODO 1 - Enable the Grid
      toggleGrid();
-     createPlatform(250, 600, 150, 15)
+     createPlatform(250, 620, 150, 15)
      createPlatform(500, 500, 200, 20)
      createPlatform(800, 400, 100, 12)
      createPlatform(300, 300, 150, 15)
@@ -37,6 +37,11 @@ $(function () {
 
 
     // TODO 2 - Create Platforms
+    createCollectable("steve", 200, 100,);
+    createCollectable("max", 600, 300);
+    createCollectable("diamond", 1100, 500);
+    createCollectable("grace", 1300, 100);
+    createCollectable("kennedi", 200, 400);
 
 
 
