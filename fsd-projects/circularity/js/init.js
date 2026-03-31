@@ -81,7 +81,7 @@ for (var loopsCompleted = 0; loopsCompleted < 175; loopsCompleted++) {
        // TODO 4: Move All Circles Across the Screen
       
             // TODO 5 : Call game.checkCirclePosition() on your circles
-           game.checkCirclePosition(circles[ 0 ])
+          game.checkCirclePosition(circles[ 0 ])
 
 game.checkCirclePosition(circles[ 1 ])
 
